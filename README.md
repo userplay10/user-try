@@ -1,4 +1,4 @@
 # user-try
 let me try it
 <br>
-all ok
+all (every thing going ok)
